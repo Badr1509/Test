@@ -2,9 +2,11 @@ void main() {
   // print(swap(1));
   // print(swap(8));
 
-  var result = checkLetters("aaaAAAAaaaabcdefghijklmNOPQRSTUVWXYZ");
+  var result = checkLetters("Badr Almousa");
 
   print(result);
+    print(result);
+
 }
 
 int swap(int number) => 1 - number;
